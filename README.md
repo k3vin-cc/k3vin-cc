@@ -13,7 +13,7 @@ Apasionado por el desarrollo web, los servidores Linux y construir cosas para ap
 
 ## 🚀 Sobre mí
 
-Soy estudiante de último año con foco en **desarrollo web full-stack** y **administración de servidores Linux**. Me gusta construir proyectos reales: no solo para aprender, sino para que estén en producción y los use gente de verdad.
+Soy estudiante de último año de ingenieria civil informatica con foco en **desarrollo web full-stack** y **administración de servidores Linux**. Me gusta construir proyectos reales: no solo para aprender, sino para que estén en producción y los use gente de verdad.
 
 - 🌱 Actualmente aprendiendo y profundizando en **Next.js**, **React** y despliegue de aplicaciones
 - 🖥️ Tengo experiencia configurando infraestructura completa: servidor propio, Nginx, DDNS, redes

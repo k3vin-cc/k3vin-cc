@@ -22,8 +22,8 @@ Soy estudiante de último año con foco en **desarrollo web full-stack** y **adm
 
 ---
 
-## 🛠️ Tecnologías y herramientas
-
+## 🛠️ Tecnologías que manejo
+ 
 **Desarrollo web**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -31,25 +31,27 @@ Soy estudiante de último año con foco en **desarrollo web full-stack** y **adm
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+ 
 **Lenguajes**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Bases de datos**  
+![Octave](https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=octave&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Java](https://img.shields.io/badge/Java_(básico)-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++_(básico)-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+ 
+**Bases de datos** *(enfoque SQL relacional)*  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-**Servidores y redes**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_(básico)-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+ 
+**Servidores y herramientas**  
+![Debian](https://img.shields.io/badge/Debian_/_Linux-D70A53?style=flat-square&logo=debian&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+![Samba AD](https://img.shields.io/badge/Samba_AD--DC-FF6600?style=flat-square&logo=samba&logoColor=white)
+![Git](https://img.shields.io/badge/Git_(básico)-F05032?style=flat-square&logo=git&logoColor=white)
+ 
 ---
 
 ## 📌 Proyectos destacados

@@ -52,17 +52,28 @@ Soy estudiante de último año con foco en **desarrollo web full-stack** y **adm
 
 ---
 
-## 📌 Proyecto destacado
+## 📌 Proyectos destacados
 
-### 🔧 Sistema de gestión para lubricentro y taller mecánico
-> **En producción · Usado por 2 negocios reales**
+### 🔧 Sistema de gestión para lubricentro
+> **En producción · Usado por 1 negocio real**
 
-Aplicación web completa desplegada en servidor físico propio (notebook con Debian), con acceso local y remoto desde internet.
+Aplicación web para la administración de servicios, clientes y facturación de lubricentro. Desplegada en servidor físico propio con acceso local y remoto.
 
 - **Backend:** Python + Flask
 - **Base de datos:** SQLite
 - **Servidor:** Nginx como proxy reverso
-- **Acceso externo:** DuckDNS (DDNS) con actualización automática de IP dinámica cada 5 minutos
+- **Acceso externo:** DuckDNS (DDNS)
+- **Infraestructura:** Servidor físico propio en producción real
+
+### 🔧 Plataforma de gestión para taller mecánico
+> **En producción · Usado por 1 taller mecánico real**
+
+Sistema independiente para gestionar órdenes de servicio, historial de vehículos y control de inventario.
+
+- **Backend:** Python + Flask
+- **Base de datos:** SQLite
+- **Servidor:** Nginx como proxy reverso
+- **Acceso externo:** DuckDNS (DDNS)
 - **Infraestructura:** Servidor físico propio en producción real
 
 ---

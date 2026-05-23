@@ -71,7 +71,7 @@ Aplicación web para la administración de servicios, clientes y facturación de
 ### 🔧 Plataforma de gestión para taller mecánico
 > **En producción · Usado por 1 taller mecánico real**
 
-**Repositorio:** [https://github.com/k3vin-cc/Sistema-de-gesti-n-para-lubricentro](#)
+**Repositorio:** (https://github.com/k3vin-cc/Sistema_taller_mecanico)
 
 Sistema independiente para gestionar órdenes de servicio, historial de vehículos y control de inventario.
 

@@ -58,7 +58,7 @@ Soy estudiante de último año con foco en **desarrollo web full-stack** y **adm
 ### 🔧 Sistema de gestión para lubricentro
 > **En producción · Usado por 1 negocio real**
 
-**Repositorio:** [Agregar enlace del repo del lubricentro](#)
+**Repositorio:** (https://github.com/k3vin-cc/Sistema_de_lubricentro)
 
 Aplicación web para la administración de servicios, clientes y facturación de lubricentro. Desplegada en servidor físico propio con acceso local y remoto.
 

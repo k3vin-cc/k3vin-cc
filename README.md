@@ -18,7 +18,6 @@ Soy estudiante de último año con foco en **desarrollo web full-stack** y **adm
 - 🌱 Actualmente aprendiendo y profundizando en **Next.js**, **React** y despliegue de aplicaciones
 - 🖥️ Tengo experiencia configurando infraestructura completa: servidor propio, Nginx, DDNS, redes
 - 🔧 Me interesa el stack completo: desde la base de datos hasta el servidor físico
-- 📍 Temuco, Chile
 
 ---
 

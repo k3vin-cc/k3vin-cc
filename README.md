@@ -6,7 +6,6 @@
 Apasionado por el desarrollo web, los servidores Linux y construir cosas para aprender.
 
 [![Email](https://img.shields.io/badge/Email-cortescarrascokevinandres@gmail.com-D14F3A?style=flat-square&logo=gmail&logoColor=white)](mailto:cortescarrascokevinandres@gmail.com)
-[![Ubicación](https://img.shields.io/badge/Temuco-Chile-0F6E56?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Temuco,Chile)
 
 </div>
 

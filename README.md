@@ -58,6 +58,8 @@ Soy estudiante de último año con foco en **desarrollo web full-stack** y **adm
 ### 🔧 Sistema de gestión para lubricentro
 > **En producción · Usado por 1 negocio real**
 
+**Repositorio:** [Agregar enlace del repo del lubricentro](#)
+
 Aplicación web para la administración de servicios, clientes y facturación de lubricentro. Desplegada en servidor físico propio con acceso local y remoto.
 
 - **Backend:** Python + Flask
@@ -68,6 +70,8 @@ Aplicación web para la administración de servicios, clientes y facturación de
 
 ### 🔧 Plataforma de gestión para taller mecánico
 > **En producción · Usado por 1 taller mecánico real**
+
+**Repositorio:** [Agregar enlace del repo del taller mecánico](#)
 
 Sistema independiente para gestionar órdenes de servicio, historial de vehículos y control de inventario.
 

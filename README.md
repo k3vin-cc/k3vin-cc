@@ -56,20 +56,18 @@ Soy estudiante de último año de ingenieria civil informatica con mencion en so
 ## 📌 Proyectos destacados
 
 ### 🔧 Sistema de gestión para lubricentro
-> **En producción · Usado por 1 negocio real**
+> **En producción**
 
 **Repositorio:** (https://github.com/k3vin-cc/Sistema_de_lubricentro)
 
-Aplicación web para la administración de servicios, clientes y facturación de lubricentro. Desplegada en servidor físico propio con acceso local y remoto.
+Aplicación web para la administración de servicios, clientes y facturación de lubricentro.
 
 - **Backend:** Python + Flask
 - **Base de datos:** SQLite
-- **Servidor:** Nginx como proxy reverso
-- **Acceso externo:** DuckDNS (DDNS)
-- **Infraestructura:** Servidor físico propio en producción real
+
 
 ### 🔧 Plataforma de gestión para taller mecánico
-> **En producción · Usado por 1 taller mecánico real**
+> **En producción**
 
 **Repositorio:** (https://github.com/k3vin-cc/Sistema_taller_mecanico)
 
@@ -77,7 +75,4 @@ Sistema independiente para gestionar órdenes de servicio, historial de vehícul
 
 - **Backend:** Python + Flask
 - **Base de datos:** SQLite
-- **Servidor:** Nginx como proxy reverso
-- **Acceso externo:** DuckDNS (DDNS)
-- **Infraestructura:** Servidor físico propio en producción real
 

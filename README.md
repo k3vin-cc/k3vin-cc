@@ -21,7 +21,7 @@ Soy estudiante de último año de ingenieria civil informatica con mencion en so
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 🛠️ Tecnologías que he usado
  
 **Desarrollo web**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)

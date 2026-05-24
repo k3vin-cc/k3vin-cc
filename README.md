@@ -49,7 +49,7 @@ Soy estudiante de último año de ingenieria civil informatica con mencion en so
 ![Debian](https://img.shields.io/badge/Debian_/_Linux-D70A53?style=flat-square&logo=debian&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Samba AD](https://img.shields.io/badge/Samba_AD--DC-FF6600?style=flat-square&logo=samba&logoColor=white)
-![Git](https://img.shields.io/badge/Git_(básico)-F05032?style=flat-square&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git_(intermedio)-F05032?style=flat-square&logo=git&logoColor=white)
  
 ---
 
